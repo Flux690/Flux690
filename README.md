@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hi, I’m Prabhat 👋  <br>Frontend Developer building interactive, high-performance user interfaces and visualization-driven data tools.<br><br>I work with JavaScript, React, TypeScript, D3.js, and Three.js, and my professional work includes building complex interactives and refactoring legacy visualization codebases into clean, modular, and maintainable systems. I enjoy translating detailed Figma designs into fast, scalable, production-ready interfaces.<br><br>I’m increasingly interested in AI-assisted and agentic workflows—using AI to reduce development friction and explore ways design intent (like Figma files) can be transformed into structured backend logic and code, with a strong emphasis on clarity, performance, and long-term maintainability.<br>
+Hi, I’m Prabhat 👋  
+I’m a frontend developer who enjoys building interactive, performance-sensitive user interfaces and data-driven tools.
+
+Most of my work revolves around JavaScript, React, TypeScript, D3.js, and Three.js. In my day-to-day role, I build and maintain complex interactives and spend a fair amount of time refactoring older visualization codebases to make them more modular, readable, and easier to evolve. I also work closely with designers, turning detailed Figma files into production-ready interfaces that hold up well under real usage.
+
+Lately, I’ve been exploring how AI-assisted workflows can reduce friction in development and help engineers focus more on problem-solving than boilerplate, while still caring deeply about clarity, performance, and long-term maintainability.
 
 
 ## 🌐 Socials:
